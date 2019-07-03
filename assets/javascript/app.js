@@ -1,7 +1,7 @@
 var movies;
 
 //initialize movies array
-movies=["Forrest Gump","Pulp Fiction","The Guilty", "Blindspotting","Vice","Free Solo","Deadpool 2","Apostle","Widows "];
+movies=["Forrest Gump","Pulp Fiction","The Guilty", "The Sound of Music","Vice","Free Solo","Deadpool 2","Apostle","Widows "];
 
 //display buttons on the page
 function displayButtons(){
@@ -16,7 +16,6 @@ function displayButtons(){
     }
 }
 displayButtons();      
-
 
 // render buttons
 $("#add-movie").on("click", function(){

@@ -1,0 +1,24 @@
+body {
+    background-image: url(../image/background.png);
+       
+}
+
+#add-movie {
+    background-color: aquamarine;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    color: blue;
+}
+
+#giphy-view {
+    align-content: center;
+}
+
+.btn-success {
+    background-color: rgb(20, 95, 70);
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+}
+
